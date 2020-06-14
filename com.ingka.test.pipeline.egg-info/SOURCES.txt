@@ -1,0 +1,13 @@
+setup.py
+com/__init__.py
+com.ingka.test.pipeline.egg-info/PKG-INFO
+com.ingka.test.pipeline.egg-info/SOURCES.txt
+com.ingka.test.pipeline.egg-info/dependency_links.txt
+com.ingka.test.pipeline.egg-info/requires.txt
+com.ingka.test.pipeline.egg-info/top_level.txt
+com/ingka/__init__.py
+com/ingka/test/__init__.py
+com/ingka/test/pipeline/__init__.py
+com/ingka/test/pipeline/simple_dofn.py
+com/ingka/test/pipeline/stream_application.py
+com/ingka/test/pipeline/stream_pipeline_options.py

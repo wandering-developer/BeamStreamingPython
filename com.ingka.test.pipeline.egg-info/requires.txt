@@ -1,0 +1,5 @@
+jsonschema
+apache_beam[gcp]
+google-cloud-bigquery
+google-cloud-storage
+pymysql

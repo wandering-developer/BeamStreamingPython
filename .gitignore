@@ -1,0 +1,6 @@
+.idea/
+/venv
+/venv1
+/com/example/test/__pycache__/
+/com/example/test/pipeline/__pycache__/
+/com.ingka.test.pipeline.egg-info/
